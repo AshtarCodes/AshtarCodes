@@ -5,7 +5,9 @@
 
 - 📫 How to reach me **ashtarcodes@gmail.com**
 
-- Currently working on my Store Navigator full stack app
+- Currently diving deeper into Node / Ejs / MongoDb
+
+- Currently working on my Store Navigator full-stack app
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
