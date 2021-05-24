@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ash</h1>
-<h3 align="center">I'm a curious software engineer from the New York City metropolitan area</h3>
+<h3 align="center">I'm a software engineer from the New York City metropolitan area</h3>
 
 - 👨‍💻 Some of my projects are available at [https://ashtarcodes.com](https://ashtarcodes.com)
 
