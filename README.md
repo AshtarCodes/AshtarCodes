@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Ashtar Paniagua</h1>
-<h3 align="center">A passionate software engineer from the New York City area</h3>
+<h1 align="center">Hi 👋, I'm Ash</h1>
+<h3 align="center">I'm a curious software engineer from the New York City metropolitan area</h3>
 
-- 👨‍💻 All of my projects are available at [https://ashtarcodes.com](https://ashtarcodes.com)
+- 👨‍💻 Some of my projects are available at [https://ashtarcodes.com](https://ashtarcodes.com)
 
-- 📫 How to reach me **ashtarcodes@gmail.com**
+- 📫 Reach me at **ashtarcodes@gmail.com**
 
-- Currently diving deeper into Node / Express / MongoDb
+- Currently diving deeper into React
 
-- Currently working on my Store Navigator full-stack app
+- Currently working on Con Sazon, a full-stack app for finding culturally mindful recipes and meal planning. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
