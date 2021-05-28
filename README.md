@@ -25,4 +25,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashtarcodes&" alt="ashtarcodes" /></p>
 
-# AshtarCodes
+**Check out my pinned projects below**
