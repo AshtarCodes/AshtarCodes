@@ -3,11 +3,11 @@
 
 - 👨‍💻 My recent projects are available at [https://ashtarcodes.com](https://ashtarcodes.com)
 
-- 📫 Reach me at **ashtarcodes@gmail.com**
+- 📫  Reach me at **ashtarcodes@gmail.com**
 
-- Currently diving deeper into React
+- Currently working with and learning more React, Node, Typescript, and Jest
 
-- Currently working on Con Sazon, a full-stack app for finding culturally mindful recipes and meal planning. 
+- Currently working on Con Sazon, a full-stack app for finding delicious meals from my favorite cuisines and using them to meal plan and shop. The app centers black and latinx cuisines, and also features some Thai, Indian, and other recipes.  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
