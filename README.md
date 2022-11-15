@@ -5,7 +5,7 @@
 
 - 📫  Reach me at **ashtarcodes@gmail.com**
 
-- Currently working with and learning more React, Node, Typescript, and Jest
+- Currently working with React, Node, Typescript, Jest, Cypress
 
 - Currently working on Con Sazon, a full-stack app for finding delicious meals from my favorite cuisines and using them to meal plan and shop. The app centers black and latinx cuisines, and also features some Thai, Indian, and other recipes.  
 
