@@ -20,7 +20,7 @@
   <picture><source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg"><img src="./profile/top-langs-light.svg" width="48%" alt="ashtarcodes top languages" /></picture>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashtarcodes&" alt="ashtarcodes" /></p>
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ashtarcodes&theme=dark"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashtarcodes&theme=default" alt="ashtarcodes streak stats" /></picture></p>
 
 
 ### Check out my pinned projects below
