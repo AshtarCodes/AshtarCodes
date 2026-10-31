@@ -16,8 +16,8 @@
 </p>
 
 <p align="center">
-  <img src="./profile/stats.svg" alt="ashtarcodes GitHub stats" />
-  <img src="./profile/top-langs.svg" alt="ashtarcodes top languages" />
+  <img src="./profile/stats.svg" width="48%" alt="ashtarcodes GitHub stats" />
+  <img src="./profile/top-langs.svg" width="48%" alt="ashtarcodes top languages" />
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashtarcodes&" alt="ashtarcodes" /></p>
