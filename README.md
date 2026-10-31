@@ -16,8 +16,8 @@
 </p>
 
 <p align="center">
-  <img src="./profile/stats.svg" width="48%" alt="ashtarcodes GitHub stats" />
-  <img src="./profile/top-langs.svg" width="48%" alt="ashtarcodes top languages" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg"><img src="./profile/stats-light.svg" width="48%" alt="ashtarcodes GitHub stats" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg"><img src="./profile/top-langs-light.svg" width="48%" alt="ashtarcodes top languages" /></picture>
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashtarcodes&" alt="ashtarcodes" /></p>
