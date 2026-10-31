@@ -51,6 +51,20 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
 
+      - name: Streak card (light)
+        uses: DenverCoder1/github-readme-streak-stats@adbd07609bb771d3510a15ee2f3b31d5fbe5201d # v1.8.1
+        with:
+          options: user=${{ github.repository_owner }}&disable_animations=true&theme=default
+          path: profile/streak-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Streak card (dark)
+        uses: DenverCoder1/github-readme-streak-stats@adbd07609bb771d3510a15ee2f3b31d5fbe5201d # v1.8.1
+        with:
+          options: user=${{ github.repository_owner }}&disable_animations=true&theme=dark&dates=FFFFFF
+          path: profile/streak-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
