@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ash</h1>
 <h3 align="center">I'm a software engineer from the New York City metropolitan area.</h3>
 
-- 👨‍💻 My recent projects are available at [https://ashtarcodes.com](https://ashtarcodes.com)
-
 - 📫  Reach me at **ashtarcodes@gmail.com**
 
 - Currently working on Investor Basecamp, an app for managing the risk in your equity portfolio before it's too late.
