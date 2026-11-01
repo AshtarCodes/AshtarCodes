@@ -3,7 +3,7 @@
 
 - 📫  Reach me at **ashtarcodes@gmail.com**
 
-- Currently working on Investor Basecamp, an app for managing the risk in your equity portfolio before it's too late.
+- Currently working on Investor Basecamp, an app for managing the risk in your equity portfolio.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
